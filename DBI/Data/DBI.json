@@ -1,0 +1,17 @@
+[
+	{
+        "name": "810 - 中文",
+        "label": "810中文",
+		"path": "./Data/DBI.810.ZHCN.zip"
+    },
+	{
+        "name": "647 - 中文",
+        "label": "647中文",
+		"path": "./Data/DBI.647.CN.zip"
+    },
+	{
+        "name": "658 - 英文",
+        "label": "658英文",
+		"path": "./Data/DBI.658.EN.zip"
+    }
+]

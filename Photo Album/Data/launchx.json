@@ -1,0 +1,14 @@
+[
+    {
+        "name": "系统相册 - 需按住R打开插件",
+        "label": "系统相册",
+		"path1": "./Data/override_config.ini",
+		"path2": "/atmosphere/config/override_config.ini"
+    },
+	{
+        "name": "插件列表 - 需按住R打开相册",
+        "label": "插件列表",
+	        "path1": "./Data/override_config0.ini",
+		"path2": "/atmosphere/config/override_config.ini"
+    }
+]
