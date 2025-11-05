@@ -1,0 +1,12 @@
+[
+    {
+        "name": "HBmenu菜单 - 简单稳定",
+	"label": "HBmenu菜单",
+        "path": "./Data/hbmenu.nro"
+    },
+    {
+        "name": "Sphaira菜单 - 功能强大",
+	"label": "Sphaira菜单",
+        "path": "./Data/sphaira.nro"
+    }
+]
